@@ -11,3 +11,5 @@ const arrayAccess = a[1];
 console.log(a);
 
 //"a" its not a variable, understand this bs latter.
+
+//aaaaaaaaaaaaa
