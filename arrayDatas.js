@@ -14,10 +14,10 @@ const [a,b,c, ...rest] = numbers;
 
 //not sure about how the ...rest works, which is a parameter.
 
-const arrayAccess = a;
+const arrayAccess = a; //this a'int too necessary for anything, but whatever ig.
 
 console.log(b);
 
-//"a" its not a variable, understand this bs latter.
+//"a" its a variable and the values from the 'numbers' are assigned to all the elements inside the brackets
+//respectively, this is called destructuring. 
 
-//aaaaaaaaaaaaa
